@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleProject", "SampleProject\SampleProject.csproj", "{B0D32BAF-F5F7-47C6-85A7-80F5CF21A6DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleProject", "SampleProject\SampleProject.csproj", "{B0D32BAF-F5F7-47C6-85A7-80F5CF21A6DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedInTest", "LinkedInTest\LinkedInTest.csproj", "{7966004A-C177-4139-8341-995F142A50AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedInTest", "LinkedInTest\LinkedInTest.csproj", "{7966004A-C177-4139-8341-995F142A50AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BunnyCart", "BunnyCart\BunnyCart.csproj", "{82BB8D3C-11D1-4996-9EB7-16446F2D4AD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7966004A-C177-4139-8341-995F142A50AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7966004A-C177-4139-8341-995F142A50AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7966004A-C177-4139-8341-995F142A50AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BB8D3C-11D1-4996-9EB7-16446F2D4AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BB8D3C-11D1-4996-9EB7-16446F2D4AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BB8D3C-11D1-4996-9EB7-16446F2D4AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BB8D3C-11D1-4996-9EB7-16446F2D4AD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
